@@ -5,7 +5,6 @@ import Image from 'next/image';
 import Link from 'next/link';
 import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
-import { Product } from '@/types';
 import { Trash2, Plus, Minus, ArrowLeft } from 'lucide-react';
 
 // Datos de ejemplo (esto debería venir de un estado global o API)
